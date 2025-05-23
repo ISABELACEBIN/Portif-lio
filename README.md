@@ -10,7 +10,7 @@
 
 <body>
     <header>
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
+        <img src="img/avatar-perfil.png" alt="avatar da Zabela" srcset="">
         <p>Eu sou Zabela_</p>
         <h1>Eu ensino Programação</h1>
         <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
